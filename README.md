@@ -1,4 +1,4 @@
-# Hi there, my name is Trung Vo
+# Hi there 👋, I'm Trung!
 
 I have a strong interest in building scalable distributed system and backend microservices, currently still exploring and learning every day to broaden my horizons in this domain. My work spans Java/Spring Boot microservices, Kafka streaming, and full-stack applications with React and Node.js. My GitHub repos bring together my ideas, ongoing explorations, along with application projects, focused engineering labs, and documented hands-on experiments that make system behavior easier to understand.
 
